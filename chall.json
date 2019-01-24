@@ -5,19 +5,19 @@
 				"price": "30$",
 				"foto": "img/Shirt.png"
 			},{
-				"product2": "handbag",
+				"product": "handbag",
 				"price": "30$",
 				"foto": "img/handbag.jpg"
 			},{
-				"product3": "shoes",
+				"product": "shoes",
 				"price": "20$",
 				"foto":"img/shoes.jpg"
 			},{
-				"product4": " watch ",
+				"product": " watch ",
 				"price": "50$",
 				"foto":"img/watch.jpg"
 			},{
-				"product5": "socks",
+				"product": "socks",
 				"price": "5$",
 				"foto": "img/socks.jpg" 
 			}

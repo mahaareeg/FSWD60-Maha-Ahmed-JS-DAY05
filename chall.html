@@ -15,8 +15,18 @@
 		var selction= a[i];
 		document.getElementById("demo").innerHTML += "product: " + selction.product +"<br>"+ " price: " + selction.price +
 	
-"<div id='item'><img src='"+selction.foto+"'></div>";
+"<div id='item'><img src='"+selction.foto+"' width='75' height='75'></div>";
 }
+
+var cart =[];
+function selction(){
+
+cart.push(selection)
+}
+var g = document.getElementById("item")
+g.addEventListener("click", selction, false) 
+
+
 </script>
 
 </body>
