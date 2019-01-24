@@ -7,13 +7,21 @@
 
 	  <h1> the Employees</h1>
 	  <p id="demo"></p>
+	  <table id="table" border="2" width="50%" align="center">
+		
+	</table>
 	<script src="arr.json"></script>
 
 	<script>
-		for(i=0;a.length;i++)
+		for(i=0;i<a.length;i++)
 		{
 
-			document.getElementById("demo").innerHTML += a[i].ID  +"<br>" + a[i].FirstName  + "<br>"   + a[i].LastName + "<br>" + a[i].EmailAddress + "<br>"  + a[i].JobTitle  + "<br>"  + a[i].Salary  +"<br><hr>";
+			var b = a[i];
+
+			document.getElementById("demo").innerHTML += b.ID  +"<br>" + b.FirstName  + "<br>"   + b.LastName + "<br>" + b.EmailAddress + "<br>"  + b.JobTitle  + "<br>"  + b.Salary  +"<br><hr>";
+
+
+		document.getElementById("table").innerHTML += "<tr><td>"+ b.ID + "</td><td>"+b.FirstName +"</td><td>"+ b.LastName + "</td><td>" + b.EmailAddress + "</td><td>" + b.JobTitle+ "</td><td>" + b.Salary +"</td></tr>" ;
 
 		}
 

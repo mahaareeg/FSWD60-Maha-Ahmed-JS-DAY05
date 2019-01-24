@@ -1,0 +1,28 @@
+
+		var a = [{
+			 
+				"product": "Shirt",
+				"price": "30$",
+				"foto": "img/Shirt.png"
+			},{
+				"product2": "handbag",
+				"price": "30$",
+				"foto": "img/handbag.jpg"
+			},{
+				"product3": "shoes",
+				"price": "20$",
+				"foto":"img/shoes.jpg"
+			},{
+				"product4": " watch ",
+				"price": "50$",
+				"foto":"img/watch.jpg"
+			},{
+				"product5": "socks",
+				"price": "5$",
+				"foto": "img/socks.jpg" 
+			}
+
+			
+		]
+	
+
