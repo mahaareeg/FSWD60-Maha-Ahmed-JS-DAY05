@@ -1,0 +1,102 @@
+
+
+var employees= [{
+
+       "Unique ID": "1234567",
+       "First Name": "Maha",
+       "Last  Name": "Mahmoud",
+       "Job Title": "Lecturer",
+       "Email Address":  "mahmuodr@gmail.com",
+       "Salary": "3000"
+   },
+   {
+   	  "Unique ID": "1239999",
+       "First Name": "Nada",
+       "Last  Name": "salim",
+       "Job Title": "Engineer",
+       "Email Address" : "nada27@gmail.com",
+       "Salary": "4000 "
+
+   },
+{      
+	"Unique ID": "12344486",
+       "First Name": "Hassan",
+       "Last  Name": "Jad",
+       "Job Title": "Lecturer",
+       "Émail Address": "jaddd34@gmail.com",
+       "Salary": "3000"
+},
+
+{
+	"Unique ID": "12232327",
+       "First Name": "Sanaa",
+       "Last  Name": "Safi",
+       "Job Title": "Lecturer",
+       "emailAddress": "safisafi@gmail.com",
+       "Salary": "3000"
+},
+
+{
+	"Unique ID": "1222227",
+       "First Name": "Manar",
+       "Last  Name": "Dali",
+       "Job Title": "Teacher",
+       "emailAddress": "dali35@hotmail.com",
+       "Salary": "2100"
+   },
+
+   {
+   	"Unique ID": "12345237",
+       "First Name": "suad",
+       "Last  Name": "Ali",
+       "Job Title": "Lecturer",
+       "emailAddress": "suaderr@gmail.com",
+       "Salary": "3000"
+   },
+   {
+   	  "Unique ID": "1233333",
+       "First Name": "Salma",
+       "Last  Name": "Mahmoud",
+       "Job Title": "Teacher",
+       "emailAddress": "salma22@gmail.com",
+       "Salary": "2000"
+
+   },
+{      
+	"Unique ID": "12555567",
+       "First Name": "Tarig",
+       "Last  Name": "Salih",
+       "Job Title": "Trainer",
+       "emailAddress": "tarig.salih@gmail.com",
+       "Salary": "2500"
+},
+
+{
+	"Unique ID": "1688887",
+       "First Name": "Sami",
+       "Last  Name": "Mahmoud",
+       "Job Title": "Dentist",
+       "emailAddress": "sami.mahmoud@gmail.com",
+       "Salary": "4000"
+},
+
+{
+	"Unique ID": "9999999",
+       "First Name": "Nahid",
+       "Last  Name": "Sinada",
+       "Job Title": "Forester",
+       "emailAddress": "nahid.sinada@hotmail.com",
+       "Salary": "1500"
+   },
+
+   {
+   	"Unique ID": "7777777",
+       "First Name": "Areeg",
+       "Last  Name": "Nour",
+       "Job Title": "Teacher",
+       "emailAddress": "areeeg.nour@gmail.com",
+       "Salary": "2000"
+   }
+
+
+ ]
